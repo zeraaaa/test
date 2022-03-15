@@ -5,7 +5,7 @@ public class test {
         String abc = "asdf";
         String abcd = "asdf33";
         String abcdd = "asdf3322";
-        String abcdd222 = "asdf3322";
+        String abcdd222 = "asdf332";
         System.out.println(a.substring(1,3));
         a.length();
     }
