@@ -7,6 +7,7 @@ public class test {
         String abcdd = "asdf3322";
         String abcdd222 = "asdf3322";
         System.out.println(a.substring(1,3));
+        System.out.println(a.substring(1,3));
         a.length();
     }
 }
